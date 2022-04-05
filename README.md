@@ -26,12 +26,18 @@ You can click the Preview link to take a look at your changes.
 - [Bootstrap Made](https://bootstrapmade.com/)
 - [Zero Theme](https://www.zerotheme.com/)
 
-## CSS Inspiration (kinda)
+## CSS Inspiration (kinda) + Library
 
 - [Buttons.io](https://cssbuttons.io/)
 - [Neumorphism - Shadow Effect](https://neumorphism.io)
+- [Mantine](https://mantine.dev/)
 
 ## Cheatsheet
  
 - [Gitsheet](https://gitsheet.wtf/)
 - [OverAPI](https://overapi.com/)
+
+## On going learning
+
+@modulz/radix-icons
+https://www.youtube.com/watch?v=mW9EzQO7OKY
