@@ -37,6 +37,11 @@ You can click the Preview link to take a look at your changes.
 - [Gitsheet](https://gitsheet.wtf/)
 - [OverAPI](https://overapi.com/)
 
+## Untested
+
+- nocoDB
+- SuperTokens
+
 ## On going learning
 
 @modulz/radix-icons
