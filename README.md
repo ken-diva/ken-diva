@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Untested
 
-- nocoDB
-- SuperTokens
+- [nocoDB](https://nocodb.com/)
+- [SuperTokens](https://supertokens.com/)
 
 ## On going learning
 
