@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 - MySql
 - HeidiSql
 - XAMPP
+- [Mockaroo](https://www.mockaroo.com/) -> SQL DB Generator
 
 ## Front-end Template
 
