@@ -22,6 +22,10 @@ You can click the Preview link to take a look at your changes.
 - [Mockaroo](https://www.mockaroo.com/) -> SQL DB Generator
 - [React Icons](https://react-icons.github.io/react-icons) -> best icons for react
 
+# Other HOT Resource 🦾
+
+- [Remove BG with Adobe Express](https://www.adobe.com/express/feature/image/remove-background)
+
 ## Front-end Template 🚐
 
 - [Creative Tim](https://www.creative-tim.com/)
