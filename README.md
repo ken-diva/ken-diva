@@ -9,6 +9,10 @@ ken-diva/ken-diva is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+# My mini Proeject 🧑‍🚀
+
+- [Next.js + Firebase Todo App](https://nextfire-todo-kendiva.vercel.app/)
+
 # Resource for Web Dev 💪
 
 - [Nodejs](https://nodejs.org/en/)
