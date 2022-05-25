@@ -1,15 +1,20 @@
-- 👋 Hi, I’m @ken-diva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Ken Diva</h1>
+<h3 align="center">A Full-stack Web Dev from Indonesia</h3>
+
+- 🔭 I’m currently working on [my-mini-project](-)
+
+- 🌱 I’m currently learning **javascript, react, noSql Database**
+
+- 💬 Ask me about **Laravel, PHP, MySql**
+
+- 📫 How to reach me **kendiva17@gmail.com**
 
 <!---
 ken-diva/ken-diva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-# My mini Proeject 🧑‍🚀
+# My mini Project 🧑‍🚀
 
 - [Next.js + Firebase Todo App](https://nextfire-todo-kendiva.vercel.app/)
 
