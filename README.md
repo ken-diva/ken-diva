@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 - [XAMPP](https://www.apachefriends.org/)
 - [Mockaroo](https://www.mockaroo.com/) -> SQL DB Generator
 - [React Icons](https://react-icons.github.io/react-icons) -> best icons for react
+- [Mazer - Free Boostrap Template](https://github.com/zuramai/mazer)
 
 # Other HOT Resource 🦾
 
