@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 # Other HOT Resource 🦾
 
 - [Remove BG with Adobe Express](https://www.adobe.com/express/feature/image/remove-background)
+- [Readme Template Example by *othneildrew*](https://github.com/othneildrew/Best-README-Template#readme-top)
 
 ## Front-end Template 🚐
 
